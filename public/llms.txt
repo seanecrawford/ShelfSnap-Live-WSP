@@ -1,0 +1,8 @@
+## Pages
+- [- Sprig Work Suite Pro](/projectdetail): No description available
+- [Boardroom AI - Sprig Work Suite Pro](/boardroom): AI-powered board meeting management with automated summaries and action tracking
+- [Dashboard - Sprig Work Suite Pro](/dashboard): Welcome to your centralized dashboard for Sprig Work Suite Pro.
+- [Finance Hub - Sprig Work Suite Pro](/finance): Centralized dashboard for financial insights and analysis.
+- [Project Management - Sprig Work Suite Pro](/worksuite): Oversee and manage all your projects from a unified dashboard.
+- [Settings - Sprig Work Suite Pro](/settings): Manage your Sprig Work Suite Pro settings and preferences
+- [ShelfSnap - AI Retail Compliance](/shelfsnap): AI-powered retail shelf management with automated product detection and planogram compliance
